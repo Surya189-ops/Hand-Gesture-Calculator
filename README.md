@@ -1,9 +1,18 @@
-# Hand Gesture Calculator using java,OpenCV
+## Getting Started
 
-This is a fun and interactive calculator that uses your hand gestures to perform basic math operations like addition, subtraction, multiplication, and division. Built using Java and OpenCV, the program uses your webcam to detect the number of fingers you show, interprets them as numbers or operators, and calculates the result in real time.
+Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-The goal of this project was to explore how computer vision can be used to build natural and hands-free interfaces. Instead of typing, you just raise your fingers and perform simple gestures to carry out calculations.
+## Folder Structure
 
-All processing is done locally, and the app doesn't require any internet connection. It runs entirely on your system and works with any standard webcam.
+The workspace contains two folders by default, where:
 
-This project was a great way to combine image processing, gesture recognition, and Java programming into a real-world application.
+- `src`: the folder to maintain sources
+- `lib`: the folder to maintain dependencies
+
+Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+
+> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+
+## Dependency Management
+
+The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
